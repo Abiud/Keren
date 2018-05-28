@@ -1,0 +1,21 @@
+.navcustom {
+    background-color:  rgba(28,74,90, 0.9);
+}
+
+#bannerabu{
+	background: url('../img/bg-banner.jpg') no-repeat fixed;
+	background-size: cover;
+	min-height: 100%;
+	position: relative;
+}
+
+.bg-colorabu{
+	background-color: RGBA(13, 70, 83, 0.78);
+	min-height: 100%;
+}
+
+.textofeo{
+    background-color: rgba(211, 211, 211, 0.3);
+    border-radius: 20px;
+    padding: 5px;
+}

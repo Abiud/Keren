@@ -151,7 +151,7 @@ banner
 	min-height: 650px;
 }
 .banner-info{
-	padding-top: 190px;
+	padding-top: 100px;
 }
 .banner-logo img{
 	display: inline-block;
@@ -279,7 +279,8 @@ about
 doctor team
 ***************************************/
 .thumbnail {
-	border-radius: 0px;
+    border-radius: 0px;
+    height: 400px;
 }
 .caption h3{
     padding-bottom: 5px;
@@ -527,4 +528,12 @@ footer
     .banner-text h1{
         font-size: 24px;
     }
+}
+
+.logo {
+    max-width: 35%;
+}
+
+.fixmarg{
+    margin-top: 10px !important; 
 }
